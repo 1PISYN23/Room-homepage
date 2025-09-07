@@ -1,0 +1,9 @@
+.mainBr {
+    display: block;
+} 
+
+@media (max-width: 1625px) {
+    .mainBr {
+        display: none;
+    }
+}
